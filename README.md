@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-This is Sami. I like building small tools for problems I actually have, and lately most of them run on language models.
+This is Sami. I'm a software engineering student at Polytechnique Montréal, and I like building things that make AI models more reliable.
 
 > Last updated: September 2026
